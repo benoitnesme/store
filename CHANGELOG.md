@@ -10,6 +10,7 @@ $ npm install @ngxs/store@dev
 
 ### To become next patch version
 
+- Fix: Add setting that allows disabling dual error handling [#1971](https://github.com/ngxs/store/pull/1971)
 - Fix: Storage Plugin - Access local and session storages globals only in browser [#2034](https://github.com/ngxs/store/pull/2034)
 - Performance: Tree-shake selectors validation errors [#2020](https://github.com/ngxs/store/pull/2020)
 
